@@ -5,9 +5,9 @@ const products = [
         title: "Premium Wireless Headphones",
         description: "Experience crystal-clear audio with these comfortable, noise-cancelling wireless headphones. Perfect for work, travel, or relaxation.",
         price: 129.99,
-        image: "https://source.unsplash.com/random/600x400/?headphones",
+        image: "https://m.media-amazon.com/images/I/71XdFJO9YYL._SX522_.jpg",
         rating: 4.5,
-        affiliateLink: "https://amazon.com/your-affiliate-link-1"
+        affiliateLink: "https://amzn.to/3G88B1j"
     },
     {
         id: 2,
